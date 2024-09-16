@@ -1,3 +1,3 @@
 # Integrantes
-#Andrea Patricia Ramos Hernández
-#Fabiola Alejandra Benitez Osorto
+Andrea Patricia Ramos Hernández 
+Fabiola Alejandra Benitez Osorto
