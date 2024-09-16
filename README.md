@@ -1,1 +1,3 @@
-# LAB1
+# Integrantes
+#Andrea Patricia Ramos Hernández
+#Fabiola Alejandra Benitez Osorto
